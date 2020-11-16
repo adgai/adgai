@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with 架构方面的知识。
 - 💬 Ask me about Java技术问题。
 - 📫 How to reach me: 15809269792@163.com.
-- 😄 Pronouns: adgai
+- 😄 Pronouns: adgai。
 - ⚡ Fun fact: 任何有趣的事情。
 
 <!--
