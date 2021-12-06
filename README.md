@@ -1,13 +1,7 @@
 ### 喜欢喝ad钙奶
+### 困于混沌，寻找光
 
-- 🔭 I’m currently working on 不知名小公司。
-- 🌱 I’m currently learning Springcloud全家桶，架构方面的知识。
-- 👯 I’m looking to collaborate on 没有。
-- 🤔 I’m looking for help with 架构方面的知识。
-- 💬 Ask me about Java技术问题。
-- 📫 How to reach me: 15809269792@163.com.
-- 😄 Pronouns: adgai。
-- ⚡ Fun fact: 任何有趣的事情。
+ 须知少日拏云志，曾许人间第一流。
 
 <!--
 **adgai/adgai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
