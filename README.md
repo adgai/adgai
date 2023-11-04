@@ -1,6 +1,6 @@
 ### 喜欢喝ad钙奶
 
- 须知少日拏云志，曾许人间第一流。
+ <!--须知少日拏云志，曾许人间第一流。-->
 
 <!--
 **adgai/adgai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
